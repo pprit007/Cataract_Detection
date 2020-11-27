@@ -1,0 +1,8 @@
+.idea
+whole_model.h5
+model.json
+model.h5
+*.jpg
+input_path
+neg
+pos
